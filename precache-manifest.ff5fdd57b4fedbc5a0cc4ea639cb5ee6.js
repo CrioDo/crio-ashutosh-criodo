@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1c523e3906358b8264044d8d53d35c5f",
+    "revision": "655e8b56ad59edfc75b06077f1d82059",
     "url": "/crio-ashutosh-criodo/index.html"
   },
   {
-    "revision": "2a2ebc7783844f41026c",
+    "revision": "37818209a63fc67d7736",
     "url": "/crio-ashutosh-criodo/static/css/2.57ddf7ad.chunk.css"
   },
   {
-    "revision": "2190a3720be7ebd44ea0",
+    "revision": "4196f9c78d47f862cb92",
     "url": "/crio-ashutosh-criodo/static/css/main.5db1380d.chunk.css"
   },
   {
-    "revision": "2a2ebc7783844f41026c",
-    "url": "/crio-ashutosh-criodo/static/js/2.c43b19ad.chunk.js"
+    "revision": "37818209a63fc67d7736",
+    "url": "/crio-ashutosh-criodo/static/js/2.6493f27e.chunk.js"
   },
   {
     "revision": "d466ab9648f013dea081956fc7c904f3",
-    "url": "/crio-ashutosh-criodo/static/js/2.c43b19ad.chunk.js.LICENSE.txt"
+    "url": "/crio-ashutosh-criodo/static/js/2.6493f27e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2190a3720be7ebd44ea0",
-    "url": "/crio-ashutosh-criodo/static/js/main.a306aef0.chunk.js"
+    "revision": "4196f9c78d47f862cb92",
+    "url": "/crio-ashutosh-criodo/static/js/main.cfb37c97.chunk.js"
   },
   {
     "revision": "e3d2f1d7940d1d9b2d4a",

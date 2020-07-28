@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/crio-ashutosh-criodo/precache-manifest.ee83bf9fb072370277daafa0d84da2ab.js"
+  "/crio-ashutosh-criodo/precache-manifest.ff5fdd57b4fedbc5a0cc4ea639cb5ee6.js"
 );
 
 self.addEventListener('message', (event) => {
